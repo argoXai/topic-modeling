@@ -1,2 +1,2 @@
-# topic_modeling_paul
+# topic modeling
 BERTopic
